@@ -2,6 +2,7 @@
 
 [![Build status](https://ci.appveyor.com/api/projects/status/3p31q9b15v46sudk/branch/master?svg=true)](https://ci.appveyor.com/project/anakic/jot/branch/master)
 
+#### https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944940&idx=1&sn=fbbf050683ed39d71d9dc2d766ca57cf&chksm=b1bb0f3986cc862fea906849cb02077c30ccf9266e0c859683ed2f770d42f13cd2e5b0bbbc7f&scene=21#wechat_redirect
 ## Introduction 
 Almost every application needs to keep track of its own state, regardless of what it otherwise does. This typically includes:
  
